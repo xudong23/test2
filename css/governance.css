@@ -18,7 +18,6 @@
   width: 100%;
   background-color: #0D0E0F;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-  overflow: hidden;
   color: white;
   font-family: ArialMT;
   line-height: 30px;
@@ -71,7 +70,7 @@
   position: absolute;
   top: 80px;
   width: 139px;
-  z-index: 99;
+  z-index: 999;
 }
 .bridge .nav #docs_index_outer #docs_index {
   margin-top: 4px;
